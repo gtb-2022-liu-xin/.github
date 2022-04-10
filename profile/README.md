@@ -2,6 +2,10 @@
 
 ------
 
+:red_circle: If you want to see photos in this markdown! Please access https://github.com/gtd-2022-liu-xin/.github/tree/main/profile. Thank you! :sunflower:
+
+-----
+
 ## :o:Who am I?
 
 - My name is Liuxin. And I am from Ningxia,China! I also have a nickname.-littleyao,because my gilrfirend's last name is yao. So I choose littleyao as my nickname.
