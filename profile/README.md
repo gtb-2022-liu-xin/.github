@@ -8,7 +8,7 @@
 
 - I also have a personal logo! Just as  below!
 
-![](https://github.com/gtd-2022-liu-xin/.github/tree/main/profile/assets/logo.jpg)
+![](./assets/logo.jpg)
 
 ​		It is a little ugly and simple, but I like it. I made it by myself.
 
@@ -16,7 +16,7 @@
 
 - Oh,sorry, I forget  to add my photo. So  you can know what I  look  like below! 
 
-![](assets\微信图片_20220410234100.jpg)
+![](./assets/微信图片_20220410234100.jpg)
 
 ​		Just  as what you see,I  am not a  good-looking man! Ha ha! But I want to be a  handsome one. I like live a easy life. I like to travel with my lover...
 
@@ -26,7 +26,7 @@
 
 - I like cute animal,Cat,little dog etc. And I will have some pets in future as below.
 
-![](assets\微信图片_20220410234116.jpg)
+![](./assets/微信图片_20220410234116.jpg)
 
    It is so cute! Right? Hahahaha.....
 
@@ -34,7 +34,7 @@
 
 - The most important thing, I love my country, my hometowm, my relatives and so on.Best wishes to my country!
 
-  ![](assets\微信图片_20220410234112.jpg)
+  ![](./assets/微信图片_20220410234112.jpg)
 
 ---------
 
