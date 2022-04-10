@@ -1,4 +1,4 @@
-# :smile_cat:Welcome to Liuxin's Org 
+# :smile_cat:Welcome to Liuxin's Org repo
 
 ------
 
@@ -8,7 +8,7 @@
 
 - I also have a personal logo! Just as  below!
 
-![](assets\logo.jpg)
+![](https://github.com/gtd-2022-liu-xin/.github/tree/main/profile/assets/logo.jpg)
 
 ​		It is a little ugly and simple, but I like it. I made it by myself.
 
