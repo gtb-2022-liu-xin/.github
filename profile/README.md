@@ -2,7 +2,7 @@
 
 ------
 
-:red_circle: If you want to see photos in this markdown! Please access https://github.com/gtd-2022-liu-xin/.github/tree/main/profile. Thank you! :sunflower:
+:red_circle: If you want to see photos in this markdown! Please access https://github.com/gtb-2022-liu-xin/.github/tree/main/profile. Thank you! :sunflower:
 
 -----
 
