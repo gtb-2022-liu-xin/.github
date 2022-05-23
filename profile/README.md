@@ -2,7 +2,7 @@
 
 ------
 
-:red_circle: If you want to see photos in this markdown! Please access https://github.com/gtd-2022-liu-xin/.github/tree/main/profile. Thank you! :sunflower:
+:red_circle: If you want to see photos in this markdown! Please access https://github.com/gtb-2022-liu-xin/.github/tree/main/profile. Thank you! :sunflower:
 
 -----
 
@@ -16,7 +16,7 @@
 
 ​		It is a little ugly and simple, but I like it. I made it by myself.
 
-- I have my own web page. It can be accessed by the link https://www.littleyao.com. Surely, I buy this domain for my girl just as you can see. But it is embarrassed to say  it does not work. Because my aliyun's server is out of work. So maybe it will be accessible in some days.
+- I have my own web page. It can be accessed by the link https://www.littleyao.cn. Surely, I buy this domain for my girl just as you can see. But it is embarrassed to say  it does not work. Because my aliyun's server is out of work. So maybe it will be accessible in some days.
 
 - Oh,sorry, I forget  to add my photo. So  you can know what I  look  like below! 
 
