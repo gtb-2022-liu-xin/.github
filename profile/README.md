@@ -8,7 +8,7 @@
 
 ## :o:Who am I?
 
-- My name is Liuxin. And I am from Ningxia,China! I also have a nickname.-littleyao,because my gilrfirend's last name is yao. So I choose littleyao as my nickname.
+- My name is Liuxin. And I am from Ningxia,China! I also have a nickname-littleyao,because my girlfirend's last name is yao. So I choose littleyao as my nickname.
 
 - I also have a personal logo! Just as  below!
 
